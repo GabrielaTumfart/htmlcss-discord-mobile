@@ -75,7 +75,28 @@ img {
     color: white;
  }
 
+ /* Layout della sezione principale */
+ .page-main {
+    padding: 2rem;
+ }
+
+ /* Seconda intestazione */
+ .main-header { 
+    text-align: center;
+    padding: 2rem;
+ }
  
+ /* Titolo della seconda intestazione */
+ .main-header > h1 {
+    font-size: 2.2rem;
+    line-height: 2.2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+ }
+
+
+
+
 
 
 
