@@ -27,7 +27,28 @@ img {
     text-align: center;
  }
 
- 
+ /* Pulsanti stile di base */
+ .btn {
+    display: block;
+    margin: 16px 0;
+    border: none;
+    width: 100%;
+    padding: 6px 12px;
+}
+
+/* Titolo dell'intestazione principale */
+.main-header > {
+    font-size: 2.2rem;
+    line-height: 2.2rem;
+    margin-top: 2.5rem;
+    margin-bottom: 1.5rem;
+}
+
+
+
+
+
+
 
     
    
