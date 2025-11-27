@@ -44,6 +44,43 @@ img {
     margin-bottom: 1.5rem;
 }
 
+/* Schede */
+.card {
+    margin: 2rem auto;
+    background-color: #5D64D1;
+    padding: 2rem;
+    border-radius: 8px;
+ }
+ 
+ /* Pulsanti versione aggiornata */
+ .btn {
+    display: block;
+    width: 100%;
+    padding: 16px 12px;
+    border: none;
+    margin: 16px 0;
+    border-radius: 14px;
+    font-size: 1rem;
+}
+
+/* Pulsante primario */
+.btn.btn-primari {
+    background-color: white;
+    color: black;
+ }
+ 
+ /* Pulsante secondario */
+ .btn.btn-secondari {
+    background-color: #5865f2;
+    color: white;
+ }
+
+ 
+
+
+
+
+
 
 
 
