@@ -1,6 +1,23 @@
+/* Regola di Reset */
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-
 }
+
+/* Stile generale del corpo della pagina */
+body {
+    background-color: blue;
+    color: white;
+}
+
+/* Banner e contenuti visivi */
+img {
+    display: block;
+    max-width: 100%;
+}
+
+
+
+    
+   
