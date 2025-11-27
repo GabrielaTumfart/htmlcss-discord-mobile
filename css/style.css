@@ -17,7 +17,17 @@ img {
     max-width: 100%;
 }
 
+/* Sezione principale della pagina */
+.page-main {
+    padding: 1rem;
+ }
 
+ /* Intestazione principale */
+ .main-header {
+    text-align: center;
+ }
+
+ 
 
     
    
